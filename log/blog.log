@@ -1,0 +1,6 @@
+2020-09-05 11:48:48.030  INFO 4464 --- [restartedMain] com.lyx.blog.BlogApplication             : Starting BlogApplication on DESKTOP-P2MFKK6 with PID 4464 (E:\ProgramJava\Blog\BlogServer\target\classes started by a in E:\ProgramJava\Blog\BlogServer)
+2020-09-05 11:48:48.032  INFO 4464 --- [restartedMain] com.lyx.blog.BlogApplication             : The following profiles are active: pro
+2020-09-05 11:48:49.287  WARN 4464 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-05 11:48:49.545  WARN 4464 --- [task-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-09-05 11:48:49.560  WARN 4464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-09-05 11:48:49.673  INFO 4464 --- [restartedMain] com.lyx.blog.BlogApplication             : Started BlogApplication in 1.969 seconds (JVM running for 3.527)
